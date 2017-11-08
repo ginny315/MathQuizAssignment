@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MathQuiz</string>
+    <string name="calc">This domain may show the question</string>
+    <string name="answer">Your answer(s):</string>
+    <string name="if_correct">Sorry! You are wrong! The correct answer is 8</string>
+    <string name="round_answer">If your answer are not integers, please round them to 2 decimal places.</string>
+    <string name="q">Question:</string>
+    <string name="submit">Submit</string>
+    <string name="next">Next</string>
 </resources>
