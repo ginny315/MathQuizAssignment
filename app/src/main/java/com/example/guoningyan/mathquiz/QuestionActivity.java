@@ -114,7 +114,6 @@ public class QuestionActivity extends Activity implements View.OnClickListener{
                     try {
                         Float.parseFloat(answer1_text);
                         Float.parseFloat(answer2_text);
-                        
 
                         if(checkDecimal(answer1_text) && checkDecimal(answer2_text))
                             return;
